@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Je Yoon.
+- 👋 Hi, I’m Ji Yoon.
 - 🎓 College student.
 - 🌱 I’m dream of becoming a web developer.
 
