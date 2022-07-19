@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ji Yoon.
 - 🎓 College student.
 - 🌱 I’m dream of becoming a web developer
+# example
 
 <!---
 jiyoon0701/jiyoon0701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
