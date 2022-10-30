@@ -2,7 +2,7 @@
 
 <div align=center>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Welcome+my+gitHub👋&font=Redressed&size=40)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Welcome+my+gitHub👋&font=Redressed&size=40)](https://git.io/typing-svg) 
   
 </div>
 
